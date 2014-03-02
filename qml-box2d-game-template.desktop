@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=qmlscene -I . qml-box2d-game-template.qml
+Name=QML Box2D Game Template
+Icon=./qml-box2d-game-template.png
+X-Ubuntu-Touch=true
+X-Ubuntu-Single-Instance=true

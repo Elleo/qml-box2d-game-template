@@ -1,0 +1,15 @@
+{
+	"description": "An example template for building QML and Box2D based games.",
+	"framework": "ubuntu-sdk-13.10",
+	"architecture": "all",
+	"hooks": {
+		"utgame": {
+			"apparmor": "qml-box2d-game-template.json",
+			"desktop": "qml-box2d-game-template.desktop"
+		}
+	},
+	"maintainer": "Michael Sheldon <michael.sheldon@canonical.com>",
+	"name": "com.ubuntu.developer.example.qml-box2d-game-template",
+	"title": "QML Box2D Game Template Example",
+	"version": "0.1"
+}
