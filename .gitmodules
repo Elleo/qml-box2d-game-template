@@ -1,4 +1,4 @@
 [submodule "qml-box2d"]
 	path = qml-box2d
-	url = git@gitorious.org:qml-box2d/qml-box2d.git
+	url = git://gitorious.org/qml-box2d/qml-box2d.git
 	branch = qt5
